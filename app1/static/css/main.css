@@ -1,0 +1,38 @@
+h1 ,h2   {color:rgb(19, 0, 128); text-align: center;}
+
+a{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(14, 28, 230);
+    
+    transition: all 0.4s ease;
+    text-decoration: none;
+   
+  }
+  a:hover{
+    color: #09d4e2;
+  }
+
+  .menu{
+    width: 22%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+    }
+
+    ul.a {
+        list-style-type: circle;
+      }
+      
+      ul.b {
+        list-style-type: square;
+      }
+      
+      ol.c {
+        list-style-type: upper-roman;
+      }
+      
+      ol.d {
+        list-style-type: lower-alpha;
+      }
+   
